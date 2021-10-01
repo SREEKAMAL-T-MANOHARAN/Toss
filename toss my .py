@@ -10,3 +10,5 @@ for i in range(101):
            print("\033[1;31;40m",win)
         else:
            print("\033[1;35;40m",win)
+
+
